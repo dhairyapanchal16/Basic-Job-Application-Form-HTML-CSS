@@ -1,1 +1,1 @@
-Here is The Basic Job Application From using HTML and CSS.
+Here is The Basic Job Application Form using HTML and CSS.
